@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 320" role="img" aria-labelledby="title description">
+  <title id="title">A champion celebrates</title>
+  <desc id="description">A runner celebrates on a podium beneath a bright golden sun.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#fef3c7"/>
+    </linearGradient>
+  </defs>
+  <rect width="440" height="320" rx="24" fill="url(#sky)"/>
+  <circle cx="344" cy="76" r="39" fill="#fbbf24"/>
+  <path d="M0 230c54-30 99-17 145 2 55 23 98 15 151-5 55-21 99-14 144 4v89H0z" fill="#a7d7b8"/>
+  <path d="M117 252h206v68H117z" fill="#f8fafc"/>
+  <path d="M117 252h68v68h-68z" fill="#cbd5e1"/>
+  <path d="M185 222h70v98h-70z" fill="#facc15"/>
+  <path d="M255 252h68v68h-68z" fill="#cbd5e1"/>
+  <circle cx="220" cy="94" r="25" fill="#b77955"/>
+  <path d="M196 90c4-26 42-31 49-5-17-9-31-8-49 5" fill="#1f2937"/>
+  <path d="m201 119-24 53 22 10 24-43 27 44 22-11-30-53z" fill="#2563eb"/>
+  <path d="m199 127-31 32-25-12-8 14 39 23 39-32" fill="#b77955"/>
+  <path d="m244 127 29 29 27-7 5 16-39 12-39-34" fill="#b77955"/>
+  <path d="m204 171-25 48 18 8 34-43" fill="#1e3a8a"/>
+  <path d="m239 169 28 43-17 11-39-39" fill="#1e3a8a"/>
+  <path d="m221 126 13 55" stroke="#fbbf24" stroke-width="5"/>
+  <circle cx="236" cy="188" r="11" fill="#fbbf24" stroke="#f59e0b" stroke-width="3"/>
+  <path d="m83 90 5 13 13 5-13 5-5 13-5-13-13-5 13-5zM325 154l4 10 10 4-10 4-4 10-4-10-10-4 10-4zM137 72l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#fff"/>
+</svg>
